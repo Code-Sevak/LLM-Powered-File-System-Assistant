@@ -1,0 +1,13 @@
+John Doe
+Software Engineer
+
+Summary:
+Experienced software engineer with 5 years building backend services and data pipelines.
+Skilled in Python, Django, Flask, and SQL. Experience with machine learning pipelines and data engineering.
+
+Experience:
+- Senior Backend Engineer at Acme Corp (2019-2023)
+- Built ETL pipelines and microservices in Python.
+
+Skills:
+Python, SQL, Django, Flask, AWS, Machine Learning

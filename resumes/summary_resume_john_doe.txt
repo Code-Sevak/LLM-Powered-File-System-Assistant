@@ -1,0 +1,2 @@
+Detected keyword lines: Experienced software engineer with 5 years building backend services and data pipelines.; Skilled in Python, Django, Flask, and SQL. Experience with machine learning pipelines and data engineering.; Experience:; - Built ETL pipelines and microservices in Python.; Skills:
+Top lines: Skilled in Python, Django, Flask, and SQL. Experience with machine learning pipelines and data engineering. | Experienced software engineer with 5 years building backend services and data pipelines. | - Senior Backend Engineer at Acme Corp (2019-2023)

@@ -1,0 +1,12 @@
+Jane Doe
+Data Analyst
+
+Summary:
+Data analyst with strong background in SQL and statistics. Built reporting dashboards and data visualizations.
+
+Experience:
+- Data Analyst at DataWorks (2018-2024)
+- Worked with large datasets and created visualizations.
+
+Skills:
+SQL, Tableau, Excel, R
